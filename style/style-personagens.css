@@ -75,6 +75,7 @@ a{
 .cartao .imgBx img{
     max-width: 450px;
     padding-left: 25px;
+    background: #000;
 }
 .cartao .detalhes{
     position: relative;
@@ -269,6 +270,7 @@ a{
 .box-categoria{
     height: 300px;
     width: 100%;
+    background: #000;
     display: flex;
     justify-content: center; 
 }
